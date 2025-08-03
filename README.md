@@ -35,7 +35,7 @@ A aplicação mostra um conselho aleatório na tela e permite que o usuário atu
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/advice-generator-app.git
+   git clone [https://github.com/Adrian29-bit/advice-generator-app-html-css-js.git]
 
 2. Acesse a pasta do projeto:
 
